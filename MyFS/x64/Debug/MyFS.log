@@ -1,0 +1,32 @@
+﻿  CacheVolume.cpp
+  ManHinh.cpp
+D:\MyFS\MyFS\ManHinh.cpp(16,106): warning C4267: 'argument': conversion from 'size_t' to 'WORD', possible loss of data
+D:\MyFS\MyFS\ManHinh.cpp(36,19): warning C4838: conversion from 'const unsigned int' to 'SHORT' requires a narrowing conversion
+D:\MyFS\MyFS\ManHinh.cpp(36,22): warning C4838: conversion from 'const unsigned int' to 'SHORT' requires a narrowing conversion
+D:\MyFS\MyFS\ManHinh.cpp(55,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  entry.cpp
+D:\MyFS\MyFS\entry.cpp(116,50): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\MyFS\MyFS\entry.cpp(192,46): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\MyFS\MyFS\entry.cpp(247,35): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\MyFS\MyFS\entry.cpp(253,37): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\MyFS\MyFS\entry.cpp(261,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\MyFS\MyFS\entry.cpp(266,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\MyFS\MyFS\entry.cpp(301,39): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+  BangEntry.cpp
+  TapTin.cpp
+  ThuMuc.cpp
+  GiaoDien.cpp
+  main.cpp
+  ChuongTrinh.cpp
+  MatKhau.cpp
+  volume.cpp
+D:\MyFS\MyFS\volume.cpp(1004,28): warning C4244: 'argument': conversion from 'WCHAR' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  ThongTinVolume.cpp
+D:\MyFS\MyFS\ThongTinVolume.cpp(67,59): warning C4267: '+=': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\MyFS\MyFS\ThongTinVolume.cpp(77,46): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  Generating Code...
+  MyFS.vcxproj -> D:\MyFS\x64\Debug\MyFS.exe
